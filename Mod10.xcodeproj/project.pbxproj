@@ -28,7 +28,7 @@
 		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		29B97324FDCFA39411CA2CEA /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = /System/Library/Frameworks/AppKit.framework; sourceTree = "<absolute>"; };
 		29B97325FDCFA39411CA2CEA /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = /System/Library/Frameworks/Foundation.framework; sourceTree = "<absolute>"; };
-		84CFE9B612F7465900385F54 /* Mod10.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = Mod10.app; path = /Users/mcraig/Development/Cocoa/Mod10/build/Debug/Mod10.app; sourceTree = "<absolute>"; };
+		8453349212F74A2800E65013 /* Mod10.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Mod10.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8D1107310486CEB800E47090 /* Mod10-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Mod10-Info.plist"; sourceTree = "<group>"; };
 		959B9EA011232BAF00F43863 /* README */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README; sourceTree = "<group>"; };
 		95E74AF510FFA6A5000F4734 /* Card.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Card.h; sourceTree = "<group>"; };
@@ -95,6 +95,7 @@
 		19C28FACFE9D520D11CA2CBB /* Products */ = {
 			isa = PBXGroup;
 			children = (
+				8453349212F74A2800E65013 /* Mod10.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -156,7 +157,7 @@
 			name = Mod10;
 			productInstallPath = "$(HOME)/Applications";
 			productName = Mod10;
-			productReference = 84CFE9B612F7465900385F54 /* Mod10.app */;
+			productReference = 8453349212F74A2800E65013 /* Mod10.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */

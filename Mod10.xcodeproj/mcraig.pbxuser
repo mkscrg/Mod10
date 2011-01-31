@@ -17,11 +17,11 @@
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
 		activeArchitecturePreference = x86_64;
 		activeBuildConfigurationName = Debug;
-		activeExecutable = 84CFE9B712F7465900385F54 /* Mod10 */;
+		activeExecutable = 8453349312F74A2800E65013 /* Mod10 */;
 		activeTarget = 8D1107260486CEB800E47090 /* Mod10 */;
 		codeSenseManager = 84CBC78A12F64D0A001B16D6 /* Code sense */;
 		executables = (
-			84CFE9B712F7465900385F54 /* Mod10 */,
+			8453349312F74A2800E65013 /* Mod10 */,
 		);
 		perUserDictionary = {
 			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
@@ -118,11 +118,12 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 318195759;
-			PBXWorkspaceStateSaveDate = 318195759;
+			PBXPerProjectTemplateStateSaveDate = 318196264;
+			PBXWorkspaceStateSaveDate = 318196264;
 		};
 		perUserProjectItems = {
 			84019E8E12F7483B00A06BDB /* PBXTextBookmark */ = 84019E8E12F7483B00A06BDB /* PBXTextBookmark */;
+			845334B412F74A3F00E65013 /* PBXTextBookmark */ = 845334B412F74A3F00E65013 /* PBXTextBookmark */;
 			84CFE99C12F744F800385F54 /* PBXTextBookmark */ = 84CFE99C12F744F800385F54 /* PBXTextBookmark */;
 			84CFE99D12F744F800385F54 /* PBXTextBookmark */ = 84CFE99D12F744F800385F54 /* PBXTextBookmark */;
 			84CFE99F12F744F800385F54 /* PBXTextBookmark */ = 84CFE99F12F744F800385F54 /* PBXTextBookmark */;
@@ -136,7 +137,6 @@
 			84CFE9BB12F746B000385F54 /* PBXTextBookmark */ = 84CFE9BB12F746B000385F54 /* PBXTextBookmark */;
 			84CFE9BC12F746B000385F54 /* PBXTextBookmark */ = 84CFE9BC12F746B000385F54 /* PBXTextBookmark */;
 			84CFE9BD12F746B000385F54 /* PBXTextBookmark */ = 84CFE9BD12F746B000385F54 /* PBXTextBookmark */;
-			84CFE9C012F7479700385F54 /* PBXTextBookmark */ = 84CFE9C012F7479700385F54 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 84CBC78912F64D0A001B16D6 /* Source Control */;
 		userBuildSettings = {
@@ -157,6 +157,46 @@
 		rLoc = 1557;
 		rType = 0;
 		vrLen = 1980;
+		vrLoc = 484;
+	};
+	8453349312F74A2800E65013 /* Mod10 */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Mod10;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	845334B412F74A3F00E65013 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 959B9EA011232BAF00F43863 /* README */;
+		name = "README: 38";
+		rLen = 0;
+		rLoc = 1557;
+		rType = 0;
+		vrLen = 1907;
 		vrLoc = 484;
 	};
 	84CBC78912F64D0A001B16D6 /* Source Control */ = {
@@ -243,33 +283,6 @@
 		vrLen = 983;
 		vrLoc = 0;
 	};
-	84CFE9B712F7465900385F54 /* Mod10 */ = {
-		isa = PBXExecutable;
-		activeArgIndices = (
-		);
-		argumentStrings = (
-		);
-		autoAttachOnCrash = 1;
-		breakpointsEnabled = 0;
-		configStateDict = {
-		};
-		customDataFormattersEnabled = 1;
-		dataTipCustomDataFormattersEnabled = 1;
-		dataTipShowTypeColumn = 1;
-		dataTipSortType = 0;
-		debuggerPlugin = GDBDebugging;
-		disassemblyDisplayState = 0;
-		enableDebugStr = 1;
-		environmentEntries = (
-		);
-		executableSystemSymbolLevel = 0;
-		executableUserSymbolLevel = 0;
-		libgmallocEnabled = 0;
-		name = Mod10;
-		showTypeColumn = 0;
-		sourceDirectories = (
-		);
-	};
 	84CFE9B812F746B000385F54 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 95E74B2610FFAF13000F4734 /* GameView.m */;
@@ -332,27 +345,17 @@
 		vrLen = 334;
 		vrLoc = 0;
 	};
-	84CFE9C012F7479700385F54 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 959B9EA011232BAF00F43863 /* README */;
-		name = "README: 38";
-		rLen = 0;
-		rLoc = 1557;
-		rType = 0;
-		vrLen = 1980;
-		vrLoc = 484;
-	};
 	8D1107260486CEB800E47090 /* Mod10 */ = {
 		activeExec = 0;
 		executables = (
-			84CFE9B712F7465900385F54 /* Mod10 */,
+			8453349312F74A2800E65013 /* Mod10 */,
 		);
 	};
 	959B9EA011232BAF00F43863 /* README */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {1167, 884}}";
 			sepNavSelRange = "{1557, 0}";
-			sepNavVisRange = "{484, 1980}";
+			sepNavVisRange = "{484, 1907}";
 		};
 	};
 	95E74AF510FFA6A5000F4734 /* Card.h */ = {
