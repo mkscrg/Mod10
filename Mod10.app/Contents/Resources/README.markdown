@@ -4,10 +4,9 @@
 Copyright 2011 Michael S. Craig
 MIT License, http://www.opensource.org/licenses/mit-license
 
-This is a simple solitaire card game called Mod10, written by me in December of
-2009 and January of 2010 as a Winter Term project for Oberlin College. The full
-Xcode project is included in the project directory, while Mod10.app is a
-universal binary compiled for the Mac OS X 10.6 development target.
+This is the Xcode project for a simple solitaire card game called Mod10,
+written by me in December and January of 2010 as a Winter Term project for
+Oberlin College.
 
 ### The Game
 
