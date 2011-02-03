@@ -28,10 +28,6 @@
 }
 
 - (void)addCard:(Card *)card {
-  // incredible stupidity right here
-//  int count = [cardPile count];
-//  if (count == 0) {count++;}
-//  [cardPile insertObject:card atIndex:count-1];
   [cardPile insertObject:card atIndex:0];
 }
 
