@@ -18,7 +18,7 @@ order from left to right.
 Upon placing each card, the player inspects the stack for groups of three cards
 whose values add to a multiple of 10. The value of Aces is 1 and the value of
 all face cards is 10. Groups can be made by any sequence of three cards that is
-exposed on at least one end of the stack, and groups can by continous from the
+exposed on at least one end of the stack, and groups can by continuous from the
 top to the bottom of a stack. For example (X marks cards in the selected
 group):
 
